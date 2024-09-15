@@ -1,6 +1,5 @@
 
 
-
 function withouts(data, ...valuesToRemove) {
    return data.filter(item => !valuesToRemove.includes(item));
   }

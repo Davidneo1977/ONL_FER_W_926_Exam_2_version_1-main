@@ -12,7 +12,8 @@ const UserDetails = ({ name, surname, address, postcode, city }) => {
       </div>
     </div>
   );
-};
+};     
+
 
 
 const App = () => {
